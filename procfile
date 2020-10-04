@@ -1,0 +1,1 @@
+web: gunicorn Bhanudas.wsgi --log-file
